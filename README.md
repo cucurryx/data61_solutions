@@ -1,7 +1,7 @@
-#Data61 solutions
+# Data61 solutions
 
 ## Course Address
-[https://github.com/data61/fp-course](data61--a haskell course)
+[data61---a haskell course](https://github.com/data61/fp-course)
 ## TODO
 - [ ]	Anagrams.hs
 - [ ]	Applicative.hs
